@@ -9,7 +9,7 @@ public class Animal {
         this.size = size;
     }
 
-    public String get() {
+    public String getName() {
         return name;
     }
 
