@@ -27,7 +27,5 @@ public class MyLinkedListV2Main {
         list.remove(1);//remove O(n)
         System.out.println(list);
 
-
-
     }
 }
