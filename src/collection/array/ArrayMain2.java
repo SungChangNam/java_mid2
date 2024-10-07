@@ -32,6 +32,7 @@ public class ArrayMain2 {
     }
 
     private static void addLast(int[] arr, int newValue) {
+
         arr[arr.length-1] = newValue;
     }
 
