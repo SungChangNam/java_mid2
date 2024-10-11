@@ -20,6 +20,7 @@ public class JavaIterableMain {
         printAll(set.iterator());
 
         foreach(set);
+
         foreach(list);
 
     }
